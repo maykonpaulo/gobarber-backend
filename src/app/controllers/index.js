@@ -4,6 +4,7 @@ import FileController from './FileController';
 import ProviderController from './ProviderController';
 import AppointmentController from './AppointmentController';
 import ScheduleController from './ScheduleController';
+import NotificationController from './NotificationController';
 
 export {
   UserController,
@@ -11,5 +12,6 @@ export {
   FileController,
   ProviderController,
   AppointmentController,
-  ScheduleController
+  ScheduleController,
+  NotificationController
 };
